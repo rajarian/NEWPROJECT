@@ -2,5 +2,6 @@ belajar programming
 -git
 -github
 -html
--myphp
+-phyton
+-janggo
 -php
